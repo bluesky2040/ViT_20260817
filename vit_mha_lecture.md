@@ -346,6 +346,7 @@ merge(head 합친 후) shape   : (128, 50, 8)
 2. **Position Embedding 방식 비교**: 학습형(learnable) vs 고정형(sinusoidal)
 3. **패치 크기와 성능의 관계**: 패치를 작게 자를수록 토큰 수는 늘고 연산량은 커지지만 더 세밀한 정보 포착 가능
 
+https://ffighting.net/deep-learning-paper-review/vision-model/vision-transformer/#google_vignette
 ---
 
 *본 자료는 MNIST(28×28×1) 이미지 → 패치 → 임베딩 → CLS/Position → Multi-Head Attention으로 이어지는 ViT 입력 파이프라인 전체를, 실제 TensorFlow 코드 실행 결과와 함께 정리한 실습용 강의자료입니다.*
