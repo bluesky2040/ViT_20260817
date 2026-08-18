@@ -60,6 +60,7 @@ Step도 분리**했습니다. Pooling은 "50개 토큰을 1개로 압축"하는 
 <img width="1200" height="672" alt="image" src="https://github.com/user-attachments/assets/6c9cb052-8b2b-4313-8043-2ca4a6d82de4" />
 
 
+<img width="814" height="741" alt="image" src="https://github.com/user-attachments/assets/06ba7e97-5f53-4d67-a162-e30afa709df0" />
 
 
 ---
