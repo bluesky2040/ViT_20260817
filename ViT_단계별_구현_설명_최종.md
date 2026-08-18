@@ -57,7 +57,8 @@ Step도 분리**했습니다. Pooling은 "50개 토큰을 1개로 압축"하는 
 이 순서를 코드에서 그대로 단계별로 구현했습니다. 아래에서 하나씩 뜯어봅니다.
 
 
-<img width="1207" height="675" alt="image" src="https://github.com/user-attachments/assets/e8889fe6-efb5-48db-85ff-e7bbec755af4" />
+<img width="1198" height="673" alt="image" src="https://github.com/user-attachments/assets/9ccc6eab-95e3-4f6b-aae7-55a1322d7188" />
+
 
 
 ---
