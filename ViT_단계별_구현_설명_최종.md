@@ -56,6 +56,10 @@ Step도 분리**했습니다. Pooling은 "50개 토큰을 1개로 압축"하는 
 
 이 순서를 코드에서 그대로 단계별로 구현했습니다. 아래에서 하나씩 뜯어봅니다.
 
+
+<img width="1207" height="675" alt="image" src="https://github.com/user-attachments/assets/e8889fe6-efb5-48db-85ff-e7bbec755af4" />
+
+
 ---
 
 ## Step 1. 데이터 준비 — "학습 재료를 만드는 단계"
